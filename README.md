@@ -40,5 +40,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - Thanks to Garmin for providing the Garmin Connect IQ SDK and documentation.
-- Sleep data analysis algorithms adapted from [source].
+- Sleep data analysis algorithms adapted from [source](https://www.garmin.com/en-US/garmin-technology/health-science/sleep-tracking/).
 
